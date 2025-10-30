@@ -21,7 +21,7 @@ import { CommonModule } from '@angular/common';
 export class SkillsComponent {
   skills = [
     'HTML', 'CSS', 'Bootstrap', 'Angular', 'Node.js', 'Express', 
-    'MySQL', 'Prisma ORM', 'PostgreSQL', 'VS Code', 'Postman'
+    'MySQL', 'Prisma ORM', 'PostgreSQL', 'VS Code', 'Postman', 'Git'
   ];
 }
 
